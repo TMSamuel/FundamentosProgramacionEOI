@@ -4,7 +4,7 @@
 
 [GUIA BREVE MARKDOWN ](http://fobos.inf.um.es/R/taller5j/30-markdown/guiabreve.pdf)
 
-![00](img/00.png)
+![00](img/00.PNG)
 
 2 - Explorar GitHub (CONSEGUIDO)
 
@@ -252,7 +252,7 @@ Enlazamos el repositorio local con el remoto
 IR AL GITHUB -> COPIAR la ruta del repositorio de git
 ```
 
-![](img/01.png)
+![](img/01.PNG)
 
 Establecemos la conexion
 
