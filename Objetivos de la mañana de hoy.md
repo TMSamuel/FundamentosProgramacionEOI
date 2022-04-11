@@ -319,5 +319,5 @@ c:><caperta del proyecto>git status
 Vuelta al No. 1
 
 
-Recapitulacion Viernes/Lunes.
+Recapitulación Viernes/Lunes.
 
